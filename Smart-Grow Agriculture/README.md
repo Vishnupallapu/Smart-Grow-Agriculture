@@ -1,4 +1,4 @@
-# Farm Helper
+# Smart-Grow
 We are helping farmers in every stage of farming from crop selecting to monitor the growth, for which we are providing:
 <ol>
 <li>Nearby soil testing laboratories in map</li>
